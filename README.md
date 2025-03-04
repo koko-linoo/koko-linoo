@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @koko-linoo
-- 👀 I’m interested in Programming ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Languages
 
-<!---
-koko-linoo/koko-linoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Static Badge](https://img.shields.io/badge/React-%20%2361DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Javascript-%20%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+
+## Frameworks
+
+![Static Badge](https://img.shields.io/badge/NestJS-%20%23E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+
+
+
