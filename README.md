@@ -1,5 +1,5 @@
 ### Hi there :wave:
-I am a Software Developer. Currently working at [Capital Diamond Star Group](https://cdsg.com.mm/) as a Senior Full Stack Engineer. 
+I am a Software Developer. Currently working as a Senior Full Stack Engineer. 
 
 ## Languages
 
